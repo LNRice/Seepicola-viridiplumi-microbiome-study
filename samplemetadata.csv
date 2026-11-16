@@ -1,0 +1,21 @@
+SampleID,Abbreviated Sample Name,Site,Condition,PCR Notes,Body Length (mm),Sex
+BHSa118_S216_L001_R1_001.fastq.gz,BHSa118,Bush Hill,Free-Living,Weak/failed,35.5,Non-reproductive
+BHSa120_S180_L001_R1_001.fastq.gz,BHSa120,Bush Hill,Free-Living,,NA,"NA, only anterior region collected"
+BHSa121_S156_L001_R1_001.fastq.gz,BHSa121,Bush Hill,Free-Living,Weak/failed,75.9,Male
+BHSa85_S215_L001_R1_001.fastq.gz,BHSa85,Bush Hill,Free-Living,,NA,"NA, only anterior region collected"
+BHSa87_S287_L001_R1_001.fastq.gz,BHSa87,Bush Hill,Free-Living,Weak/failed,70.2,Non-reproductive
+BHSa93_S204_L001_R1_001.fastq.gz,BHSa93,Bush Hill,Free-Living,Weak/failed,29.1,"NA, only anterior region collected"
+BPSa109_S275_L001_R1_001.fastq.gz,BPSa109,Brine Pool NR1,Epibiotic,,56.2,Female
+BPSa137_S203_L001_R1_001.fastq.gz,BPSa137,Brine Pool NR1,Free-Living,Weak/failed,41.6,Non-reproductive
+BPSa152_S228_L001_R1_001.fastq.gz,BPSa152,Brine Pool NR1,Free-Living,,25.1,Male
+BPSa154_S251_L001_R1_001.fastq.gz,BPSa154,Brine Pool NR1,Free-Living,,37,Male
+BPSa91_S132_L001_R1_001.fastq.gz,BPSa91,Brine Pool NR1,Epibiotic,,NA,"NA, only anterior region collected"
+BPSa93_S264_L001_R1_001.fastq.gz,BPSa93,Brine Pool NR1,Epibiotic,,NA,"NA, only anterior region collected"
+BPSa96_S240_L001_R1_001.fastq.gz,BPSa96,Brine Pool NR1,Epibiotic,Weak/failed,54.2,Male
+BPSa97_S227_L001_R1_001.fastq.gz,BPSa97,Brine Pool NR1,Epibiotic,,NA,"NA, only anterior region collected"
+GCSa59_S168_L001_R1_001.fastq.gz,GCSa59,Green Canyon 234,Free-Living,Weak/failed,41.8,Female
+GCSa63_S144_L001_R1_001.fastq.gz,GCSa63,Green Canyon 234,Free-Living,,69.1,Male
+GCSa64_S276_L001_R1_001.fastq.gz,GCSa64,Green Canyon 234,Free-Living,Weak/failed,24.8,"NA, only anterior region collected"
+GCSa67_S252_L001_R1_001.fastq.gz,GCSa67,Green Canyon 234,Free-Living,Weak/failed,50.2,Non-reproductive
+GCSa71_S239_L001_R1_001.fastq.gz,GCSa71,Green Canyon 234,Free-Living,,62.9,Female
+GCSa72_S263_L001_R1_001.fastq.gz,GCSa72,Green Canyon 234,Free-Living,Weak/failed,82.5,Male
